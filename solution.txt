@@ -1,0 +1,2 @@
+git stash apply will able to do a commoand {re do again and again}
+but in git stash pop we will apply a code or redo once and after that pop will delete entire command we will not use the command unlike stash apply
