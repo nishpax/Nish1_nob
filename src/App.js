@@ -1,24 +1,27 @@
 import logo from './logo.svg';
 import './App.css';
+import Registration from './Registration';
+import Mobile from './mobile';
+import Password from './Password';
+import Button from './Button'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  <fragment>
+
+    <Registration/> 
+   <Mobile/> <br></br>
+<Password/> <br></br>
+<Button/>
+
+{/* <h1>Register here</h1>
+<input type = "Number" placeholder = "mobile..." ></input> 
+<br></br>
+<input placeholder = "password..." ></input>
+<br></br>
+<button>Submit</button> */}
+  </fragment>
+ 
   );
 }
 
