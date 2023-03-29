@@ -1,0 +1,23 @@
+.Password{
+    padding: 4px;
+    margin: 7px;
+    margin-left: -4px;
+   }
+   .Register{
+   
+     padding: 4px;
+     margin: 7px;
+     background-color: rgb(19, 19, 221);
+     color: black;
+     margin-left: 165px;
+   }
+   .UserName{
+     padding: 4px;
+     margin: 7px;
+     margin-left: 15px;
+   }
+   .Email{
+     padding: 4px;
+     margin: 7px;
+     margin-left: 15px;
+   }

@@ -1,0 +1,23 @@
+.image {
+    align-items: initial;
+    height: 17vh;
+    width: 8vw;
+    position: relative;
+    left: -200px;
+    border-radius: 150px;
+  }
+  .About {
+    position: relative;
+    left: -200px;
+  }
+  .chan {
+    position: relative;
+    top: -130px;
+    font-weight: bold;
+  }
+  .para {
+    position: relative;
+    top: -130px;
+    left: 100px;
+  }
+  
